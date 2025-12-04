@@ -22,7 +22,7 @@ El sistema utiliza una estrategia de "Divide y Vencerás" con **7 modelos XGBoos
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/modulation-classifier.git](https://github.com/TU_USUARIO/modulation-classifier.git)
+   git clone [https://github.com/IzanV5/Clasificacion-Automatica-de-Modulaciones-de-Radio.git](https://github.com/IzanV5/Clasificacion-Automatica-de-Modulaciones-de-Radio.git)
 
 2. Instalar dependencias
    ```bash
