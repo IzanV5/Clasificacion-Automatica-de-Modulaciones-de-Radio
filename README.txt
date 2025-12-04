@@ -18,6 +18,12 @@ El sistema utiliza una estrategia de "Divide y Vencerás" con **7 modelos XGBoos
 - `main.py`: Script principal de inferencia.
 - `crear_dataset_sigidwiki.py`: Herramienta para importar audios .wav reales.
 
+## Dataset
+
+Debido al tamaño de lo archivos, el dataset no está incluido en el repositorio. Puedes descargarlo aquí:
+
+**[Descargar Dataset (Google Drive)](https://drive.google.com/file/d/1Pf0nClO-mD01J43OlPht1l6oy6Ft2fAd/view?usp=sharing)**
+
 ## Instalación
 
 1. Clonar el repositorio:
@@ -30,7 +36,7 @@ El sistema utiliza una estrategia de "Divide y Vencerás" con **7 modelos XGBoos
 
 ## Uso 
 
-Coloca tu dataset (.pkl) en la carpeta data/ y ejecuta el comando:
+Coloca tu dataset (.pkl) en la carpeta data/ en la raiz del proyecto y ejecuta el comando:
    ```bash
    python main.py
 
