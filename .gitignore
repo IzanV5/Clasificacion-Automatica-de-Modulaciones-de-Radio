@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Datos (No subir, son muy pesados)
+data/
+*.pkl
+*.csv
+*.npy
+audios_prueba/
+
+# Entorno virtual
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
